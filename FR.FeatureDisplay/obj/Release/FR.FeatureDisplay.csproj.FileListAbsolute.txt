@@ -1,0 +1,13 @@
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\bin\Release\FR.FeatureDisplay.exe
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\bin\Release\FR.FeatureDisplay.pdb
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\FR.FeatureDisplay\obj\Release\FR.FeatureDisplay.csprojResolveAssemblyReference.cache
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\FR.FeatureDisplay\obj\Release\PatternRecognition.FingerprintRecognition.Applications.FeatureDisplayForm.resources
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\FR.FeatureDisplay\obj\Release\PatternRecognition.FingerprintRecognition.Applications.Properties.Resources.resources
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\FR.FeatureDisplay\obj\Release\FR.FeatureDisplay.csproj.GenerateResource.Cache
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\FR.FeatureDisplay\obj\Release\FR.FeatureDisplay.csproj.CoreCompileInputs.cache
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\FR.FeatureDisplay\obj\Release\FR.FeatureDisplay.exe
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\FR.FeatureDisplay\obj\Release\FR.FeatureDisplay.pdb
+G:\Zaochnik.com\2407632-Диплом-Построение и реализация алгоритма распознавания отпечатков пальцев на основе метода сравнения по особым точкам\FingerprintRecognition\FR.FeatureDisplay\obj\Release\FR.FeatureDisplay.exe
+G:\Zaochnik.com\2407632-Диплом-Построение и реализация алгоритма распознавания отпечатков пальцев на основе метода сравнения по особым точкам\FingerprintRecognition\FR.FeatureDisplay\obj\Release\FR.FeatureDisplay.pdb
+G:\Zaochnik.com\2407632-Диплом-Построение и реализация алгоритма распознавания отпечатков пальцев на основе метода сравнения по особым точкам\FingerprintRecognition\FR.FeatureDisplay\obj\Release\FR.FeatureDisplay.csprojResolveAssemblyReference.cache
+G:\Zaochnik.com\2407632-Диплом-Построение и реализация алгоритма распознавания отпечатков пальцев на основе метода сравнения по особым точкам\FingerprintRecognition\FR.FeatureDisplay\obj\Release\FR.FeatureDisplay.csproj.GenerateResource.Cache

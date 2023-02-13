@@ -1,0 +1,1 @@
+G:\Zaochnik.com\2407632-Диплом-Построение и реализация алгоритма распознавания отпечатков пальцев на основе метода сравнения по особым точкам\FingerprintRecognition\bin\Debug\FR.FMExperimenter.exe.config

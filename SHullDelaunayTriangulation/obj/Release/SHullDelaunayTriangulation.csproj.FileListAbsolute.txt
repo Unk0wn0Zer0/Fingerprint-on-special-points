@@ -1,0 +1,18 @@
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\SHullDelaunayTriangulation\bin\Release\SHullDelaunayTriangulation.dll.config
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\SHullDelaunayTriangulation\bin\Release\SHullDelaunayTriangulation.dll
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\SHullDelaunayTriangulation\bin\Release\SHullDelaunayTriangulation.pdb
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\SHullDelaunayTriangulation\obj\Release\SHullDelaunayTriangulation.csproj.CoreCompileInputs.cache
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\SHullDelaunayTriangulation\obj\Release\SHullDelaunayTriangulation.dll
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\SHullDelaunayTriangulation\obj\Release\SHullDelaunayTriangulation.pdb
+G:\Zaochnik.com\2407632-Диплом-Построение и реализация алгоритма распознавания отпечатков пальцев на основе метода сравнения по особым точкам\FingerprintRecognition\SHullDelaunayTriangulation\bin\Release\SHullDelaunayTriangulation.dll.config
+G:\Zaochnik.com\2407632-Диплом-Построение и реализация алгоритма распознавания отпечатков пальцев на основе метода сравнения по особым точкам\FingerprintRecognition\SHullDelaunayTriangulation\bin\Release\SHullDelaunayTriangulation.dll
+G:\Zaochnik.com\2407632-Диплом-Построение и реализация алгоритма распознавания отпечатков пальцев на основе метода сравнения по особым точкам\FingerprintRecognition\SHullDelaunayTriangulation\bin\Release\SHullDelaunayTriangulation.pdb
+G:\Zaochnik.com\2407632-Диплом-Построение и реализация алгоритма распознавания отпечатков пальцев на основе метода сравнения по особым точкам\FingerprintRecognition\SHullDelaunayTriangulation\obj\Release\SHullDelaunayTriangulation.dll
+G:\Zaochnik.com\2407632-Диплом-Построение и реализация алгоритма распознавания отпечатков пальцев на основе метода сравнения по особым точкам\FingerprintRecognition\SHullDelaunayTriangulation\obj\Release\SHullDelaunayTriangulation.pdb
+D:\Users\Виталий\Desktop\FingerprintRecognition\SHullDelaunayTriangulation\bin\Release\SHullDelaunayTriangulation.dll.config
+D:\Users\Виталий\Desktop\FingerprintRecognition\SHullDelaunayTriangulation\bin\Release\SHullDelaunayTriangulation.dll
+D:\Users\Виталий\Desktop\FingerprintRecognition\SHullDelaunayTriangulation\bin\Release\SHullDelaunayTriangulation.pdb
+D:\Users\Виталий\Desktop\FingerprintRecognition\SHullDelaunayTriangulation\obj\Release\SHullDelaunayTriangulation.csproj.AssemblyReference.cache
+D:\Users\Виталий\Desktop\FingerprintRecognition\SHullDelaunayTriangulation\obj\Release\SHullDelaunayTriangulation.csproj.CoreCompileInputs.cache
+D:\Users\Виталий\Desktop\FingerprintRecognition\SHullDelaunayTriangulation\obj\Release\SHullDelaunayTriangulation.dll
+D:\Users\Виталий\Desktop\FingerprintRecognition\SHullDelaunayTriangulation\obj\Release\SHullDelaunayTriangulation.pdb

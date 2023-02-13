@@ -1,0 +1,7 @@
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\ROC\bin\Release\ROC.dll
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\ROC\bin\Release\ROC.pdb
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\ROC\bin\Release\ROC.XML
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\ROC\obj\Release\ROC.csprojResolveAssemblyReference.cache
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\ROC\obj\Release\ROC.csproj.CoreCompileInputs.cache
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\ROC\obj\Release\ROC.dll
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\ROC\obj\Release\ROC.pdb

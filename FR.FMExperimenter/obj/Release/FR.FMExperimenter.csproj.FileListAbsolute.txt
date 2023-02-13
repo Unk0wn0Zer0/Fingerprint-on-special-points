@@ -1,0 +1,50 @@
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\bin\Release\FR.FMExperimenter.exe.config
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\bin\Release\FR.FMExperimenter.exe
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\bin\Release\FR.FMExperimenter.pdb
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\FR.FMExperimenter.csprojResolveAssemblyReference.cache
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\PatternRecognition.FingerprintRecognition.Applications.VisualFingerprintMatchingFrm.resources
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\PatternRecognition.FingerprintRecognition.Applications.FMExperimenterForm.resources
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\PatternRecognition.FingerprintRecognition.Applications.Properties.Resources.resources
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\FR.FMExperimenter.csproj.GenerateResource.Cache
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\FR.FMExperimenter.csproj.CoreCompileInputs.cache
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\FR.FMExperimenter.exe
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\FR.FMExperimenter.pdb
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2 — копия (2)\FingerprintRecognition v2.2\bin\Release\FR.FMExperimenter.exe.config
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2 — копия (2)\FingerprintRecognition v2.2\bin\Release\FR.FMExperimenter.exe
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2 — копия (2)\FingerprintRecognition v2.2\bin\Release\FR.FMExperimenter.pdb
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2 — копия (2)\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\FR.FMExperimenter.csprojResolveAssemblyReference.cache
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2 — копия (2)\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\PatternRecognition.FingerprintRecognition.Applications.VisualFingerprintMatchingFrm.resources
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2 — копия (2)\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\PatternRecognition.FingerprintRecognition.Applications.FMExperimenterForm.resources
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2 — копия (2)\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\PatternRecognition.FingerprintRecognition.Applications.Properties.Resources.resources
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2 — копия (2)\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\FR.FMExperimenter.csproj.GenerateResource.Cache
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2 — копия (2)\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\FR.FMExperimenter.csproj.CoreCompileInputs.cache
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2 — копия (2)\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\FR.FMExperimenter.exe
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2 — копия (2)\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\FR.FMExperimenter.pdb
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2 — 3\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\FR.FMExperimenter.csprojResolveAssemblyReference.cache
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2 — 3\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\PatternRecognition.FingerprintRecognition.Applications.VisualFingerprintMatchingFrm.resources
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2 — 3\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\PatternRecognition.FingerprintRecognition.Applications.FMExperimenterForm.resources
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2 — 3\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\PatternRecognition.FingerprintRecognition.Applications.Properties.Resources.resources
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2 — 3\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\FR.FMExperimenter.csproj.GenerateResource.Cache
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2 — 3\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\FR.FMExperimenter.csproj.CoreCompileInputs.cache
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2 — 3\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\FR.FMExperimenter.exe
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2 — 3\FingerprintRecognition v2.2\FR.FMExperimenter\obj\Release\FR.FMExperimenter.pdb
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2 — 3\FingerprintRecognition v2.2\bin\Release\FR.FMExperimenter.exe.config
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2 — 3\FingerprintRecognition v2.2\bin\Release\FR.FMExperimenter.exe
+C:\Users\ShawN\Desktop\C sharp\FingerprintRecognition_v2.2 — 3\FingerprintRecognition v2.2\bin\Release\FR.FMExperimenter.pdb
+G:\Zaochnik.com\2407632-Диплом-Построение и реализация алгоритма распознавания отпечатков пальцев на основе метода сравнения по особым точкам\FingerprintRecognition\bin\Release\FR.FMExperimenter.exe.config
+G:\Zaochnik.com\2407632-Диплом-Построение и реализация алгоритма распознавания отпечатков пальцев на основе метода сравнения по особым точкам\FingerprintRecognition\FR.FMExperimenter\obj\Release\FR.FMExperimenter.exe
+G:\Zaochnik.com\2407632-Диплом-Построение и реализация алгоритма распознавания отпечатков пальцев на основе метода сравнения по особым точкам\FingerprintRecognition\FR.FMExperimenter\obj\Release\FR.FMExperimenter.pdb
+G:\Zaochnik.com\2407632-Диплом-Построение и реализация алгоритма распознавания отпечатков пальцев на основе метода сравнения по особым точкам\FingerprintRecognition\FR.FMExperimenter\obj\Release\FR.FMExperimenter.csprojResolveAssemblyReference.cache
+D:\Users\Виталий\Desktop\FingerprintRecognition\bin\Release\FR.FMExperimenter.exe.config
+D:\Users\Виталий\Desktop\FingerprintRecognition\bin\Release\FR.FMExperimenter.exe
+D:\Users\Виталий\Desktop\FingerprintRecognition\bin\Release\FR.FMExperimenter.pdb
+D:\Users\Виталий\Desktop\FingerprintRecognition\FR.FMExperimenter\obj\Release\FR.FMExperimenter.csproj.AssemblyReference.cache
+D:\Users\Виталий\Desktop\FingerprintRecognition\FR.FMExperimenter\obj\Release\FR.FMExperimenter.csproj.SuggestedBindingRedirects.cache
+D:\Users\Виталий\Desktop\FingerprintRecognition\FR.FMExperimenter\obj\Release\PatternRecognition.FingerprintRecognition.Applications.VisualFingerprintMatchingFrm.resources
+D:\Users\Виталий\Desktop\FingerprintRecognition\FR.FMExperimenter\obj\Release\PatternRecognition.FingerprintRecognition.Applications.FMExperimenterForm.resources
+D:\Users\Виталий\Desktop\FingerprintRecognition\FR.FMExperimenter\obj\Release\PatternRecognition.FingerprintRecognition.Applications.Properties.Resources.resources
+D:\Users\Виталий\Desktop\FingerprintRecognition\FR.FMExperimenter\obj\Release\FR.FMExperimenter.csproj.GenerateResource.cache
+D:\Users\Виталий\Desktop\FingerprintRecognition\FR.FMExperimenter\obj\Release\FR.FMExperimenter.csproj.CoreCompileInputs.cache
+D:\Users\Виталий\Desktop\FingerprintRecognition\FR.FMExperimenter\obj\Release\FR.FMExperimenter.csproj.CopyComplete
+D:\Users\Виталий\Desktop\FingerprintRecognition\FR.FMExperimenter\obj\Release\FR.FMExperimenter.exe
+D:\Users\Виталий\Desktop\FingerprintRecognition\FR.FMExperimenter\obj\Release\FR.FMExperimenter.pdb
